@@ -1,6 +1,6 @@
 # KakaopayStock
 
-** 개발 프레임웍크
+** 개발 프레임워크
 Spring Boot
 [ JAVA 1.8 / IDE : STS / Build : Gradle / Test : Junit 4 / DB : H2]
 

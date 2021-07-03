@@ -13,7 +13,7 @@ Spring Boot
 
 
 ** 빌드 및 실행 방법
-1. 기동 후 아래 URL로 접속 가능합니다.
+1. 기동 후 아래 URL로 리턴 데이터 호출 가능합니다.
  1) 요구사항 1, 2, 3
  -  http://localhost:8080/test/require1 
  -  http://localhost:8080/test/require2

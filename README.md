@@ -14,12 +14,12 @@ Spring Boot
 
 ** 빌드 및 실행 방법
 1. 기동 후 아래 URL로 접속 가능합니다.
- 1) 요구사항 1, 2, 3
-http://localhost:8080/test/require1
-http://localhost:8080/test/require2
-http://localhost:8080/test/require3
+ 1) 요구사항 1, 2, 3\n
+http://localhost:8080/test/require1  \n
+http://localhost:8080/test/require2  \n
+http://localhost:8080/test/require3  \n
 
- 2) 요구사항 4
+ 2) 요구사항 4 \n
  JSON 형식으로 인풋값을 넣어야 하기 때문에 저는 Postman을 사용하여 테스트 했습니다. POST URL 및 Key와 Value는 아래와 같습니다.
  - URL : http://localhost:8080/test/require4
  - Key : brName, Value : 잠실점
